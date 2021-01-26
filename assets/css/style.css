@@ -1,10 +1,13 @@
 
 
+a{
+    color: gray;
+}
 
 .bg-color-primary{
     background: #044851;
 }
-.text-color-primary{
+.text-color-primary,.footer .active{
     color: #044851;
 }
 .text-xsmall{
